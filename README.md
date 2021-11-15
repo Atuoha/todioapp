@@ -1,6 +1,6 @@
-# todoapp
+# Todioapp
 
-A new Flutter project.
+A todo and accomplishment app built with Flutter
 
 ## Getting Started
 
